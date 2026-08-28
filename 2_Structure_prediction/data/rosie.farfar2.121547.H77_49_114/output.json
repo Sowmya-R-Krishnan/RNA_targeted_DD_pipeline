@@ -1,0 +1,33 @@
+{
+  "clustered": [
+    "output/trigger-00004.extract_lowscore_decoys/S_9.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_7.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_0.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_1.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_6.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_8.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_5.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_2.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_3.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_4.pdb"
+  ], 
+  "convergence": "<b>7.52 &#8491;</b>", 
+  "cpu_usage": 65.78083333333333, 
+  "essential": [], 
+  "est_rms": "<b>9.78 &pm; 1.27 &#8491;</b>", 
+  "farna_rebuild.sc": "output/farna_rebuild.sc", 
+  "full_models": [
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_004_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_166_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_002_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_129_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_105_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_115_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_175_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_086_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_133_0001.pdb", 
+    "output/trigger-00004.extract_lowscore_decoys/S_000001_010_0001.pdb"
+  ], 
+  "output/rescored.out": "output/rescored.out", 
+  "status": 0
+}
