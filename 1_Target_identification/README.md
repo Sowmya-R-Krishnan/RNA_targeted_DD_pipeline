@@ -1,4 +1,4 @@
-# A Novel in Silico Method for RNA-Targeted Drug Design Against the Hepatitis C Virus
+# A Novel <i>in silico</i> Method for RNA-Targeted Drug Design Against the Hepatitis C Virus
 Authors: Sowmya Ramaswamy Krishnan, Arijit Roy*, Limsoon Wong, M. Michael Gromiha*
 
 Module 1: Automation scripts used for RNA target identification module using RNAFramework, Infernal and R-scape packages. Requires 3 inputs:
