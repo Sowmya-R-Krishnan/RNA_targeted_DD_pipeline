@@ -1,0 +1,22 @@
+Pocket ID	Pocket residues	DRLiPS Druggability score	Class
+target_pocket_18_21	C_3_A, C_4_A, C_5_A, C_185_A, C_186_A, G_187_A, G_188_A, G_189_A	0.64365	0
+target_pocket_14_21	G_67_A, C_68_A, U_69_A, G_70_A, G_71_A, U_72_A, A_99_A, G_100_A, C_101_A, G_102_A	0.7931	0
+target_pocket_12_21	C_5_A, A_7_A, C_8_A, G_188_A, G_189_A, G_190_A	0.91667	0
+target_pocket_11_21	G_169_A, C_170_A, G_171_A, A_179_A, C_180_A, G_181_A, U_182_A	0.83718	0
+target_pocket_8_21	U_20_A, G_21_A, G_22_A, U_23_A, A_24_A, G_25_A, C_26_A, C_148_A, U_149_A, G_150_A, C_151_A, U_152_A, A_153_A, U_154_A, U_155_A, U_156_A	0.51344	1
+target_pocket_3_21	U_6_A, C_8_A, G_9_A, G_10_A, C_183_A, A_184_A, C_185_A	0.70249	0
+target_pocket_1_21	G_203_A, C_204_A, A_205_A, C_206_A, A_208_A	0.83733	0
+target_pocket_4_21	C_44_A, A_45_A, C_46_A, A_47_A, A_48_A, G_118_A, G_119_A, G_120_A	0.8646	0
+target_pocket_19_21	C_11_A, A_12_A, G_15_A, U_16_A, C_159_A, G_160_A, G_161_A, C_162_A	0.69823	0
+target_pocket_9_21	U_164_A, C_165_A, A_174_A, A_175_A, C_176_A, C_177_A, C_178_A	0.59082	0
+target_pocket_2_21	G_39_A, A_40_A, U_41_A, C_42_A, C_128_A, G_129_A, A_130_A, A_131_A, G_132_A, G_133_A, U_134_A	0.68078	0
+target_pocket_17_21	G_10_A, C_165_A, G_166_A, A_184_A, C_185_A	0.86982	0
+target_pocket_7_21	G_85_A, U_86_A	0.76629	0
+target_pocket_20_21	C_50_A, C_51_A, A_52_A, U_53_A, U_113_A, G_114_A, G_115_A, U_116_A	0.88411	0
+target_pocket_13_21	C_136_A, U_137_A, G_138_A, G_139_A	0.83708	0
+target_pocket_0_21	A_40_A, U_41_A, C_42_A, C_43_A, C_44_A, A_45_A, C_46_A, G_120_A, A_121_A, A_122_A, C_123_A, U_124_A	0.50628	1
+target_pocket_15_21	G_83_A, A_84_A, G_85_A	0.95856	0
+target_pocket_10_21	C_5_A, U_6_A, A_184_A, C_185_A, C_186_A, G_187_A, G_188_A	0.72409	0
+target_pocket_5_21	G_9_A, G_10_A, C_11_A, A_12_A, C_165_A, C_186_A, G_187_A	0.66608	0
+target_pocket_16_21	G_39_A, A_40_A, U_41_A, C_42_A, A_121_A, A_122_A, G_133_A, U_134_A, C_135_A, C_136_A	0.62542	0
+target_pocket_6_21	G_166_A, A_167_A, C_168_A, G_169_A, C_170_A, C_176_A, C_177_A, C_178_A, C_180_A	0.51474	1

@@ -1,0 +1,27 @@
+Pocket ID	Pocket residues	DRLiPS Druggability score	Class
+target_pocket_24_21	C_168_A, G_169_A, C_170_A, G_181_A, U_182_A	0.87884	0
+target_pocket_18_21	C_50_A, C_51_A, A_52_A, G_117_A, G_118_A, G_119_A	0.92036	0
+target_pocket_14_21	G_163_A, U_164_A, C_165_A, G_166_A, C_177_A, C_178_A, A_179_A	0.84029	0
+target_pocket_12_21	G_200_A, C_201_A, C_202_A, G_210_A, G_211_A, C_212_A, U_213_A	0.84056	0
+target_pocket_11_21	C_68_A, U_69_A, G_70_A, G_71_A, U_72_A, G_95_A, C_96_A, A_97_A, U_98_A, A_99_A	0.77648	0
+target_pocket_25_21	U_6_A, A_7_A, C_8_A, G_9_A, G_10_A, C_11_A, U_182_A, C_183_A, A_184_A, C_185_A, C_186_A, G_187_A, G_188_A	0.52046	1
+target_pocket_8_21	C_34_A, U_35_A, C_36_A, C_37_A, G_132_A, G_133_A, U_134_A	0.79562	0
+target_pocket_3_21	C_5_A, A_7_A, G_188_A, G_189_A, G_190_A	0.93702	0
+target_pocket_22_21	C_26_A, U_27_A, C_28_A, A_29_A, U_143_A, G_144_A, C_145_A, U_146_A	0.76368	0
+target_pocket_1_21	A_48_A, G_49_A, C_50_A, U_113_A, G_114_A	0.84143	0
+target_pocket_4_21	G_10_A, C_11_A, A_12_A, G_13_A, C_158_A, C_159_A	0.78141	0
+target_pocket_19_21	G_83_A, A_84_A, G_85_A, U_86_A	0.66889	0
+target_pocket_9_21	C_128_A, G_129_A, A_130_A, A_131_A	0.5451	0
+target_pocket_2_21	U_32_A, G_33_A, C_34_A, U_35_A, C_36_A, G_139_A, U_140_A	0.64481	0
+target_pocket_17_21	C_28_A, A_29_A, G_30_A, U_146_A, G_147_A, C_148_A, U_149_A	0.84872	0
+target_pocket_7_21	G_191_A, A_192_A, A_193_A, A_194_A, U_195_A, G_196_A, C_197_A, RG3_215_A	0.88276	0
+target_pocket_20_21	G_22_A, U_23_A, A_24_A, G_25_A, C_26_A, C_148_A, U_149_A, G_150_A, C_151_A	0.7365	0
+target_pocket_21_21	C_42_A, C_43_A, C_44_A, A_122_A, C_123_A, U_124_A, G_125_A, G_126_A, G_127_A	0.58834	0
+target_pocket_13_21	C_37_A, G_38_A, G_39_A, A_40_A, U_134_A, C_135_A	0.90833	0
+target_pocket_0_21	A_40_A, U_41_A, C_42_A, C_43_A, C_44_A, G_118_A, G_119_A, G_120_A, A_121_A, A_122_A, G_133_A, U_134_A, C_135_A	0.55643	0
+target_pocket_15_21	G_200_A, C_201_A, C_202_A, G_203_A, C_204_A, C_207_A, A_208_A, C_209_A, G_210_A	0.57683	0
+target_pocket_10_21	G_13_A, C_14_A, G_15_A, U_16_A, G_157_A, C_158_A, C_159_A	0.84227	0
+target_pocket_5_21	A_47_A, A_48_A, G_114_A, G_115_A	0.82221	0
+target_pocket_16_21	G_9_A, G_10_A, C_11_A, A_12_A, G_13_A, A_184_A, C_185_A, C_186_A	0.74736	0
+target_pocket_23_21	C_11_A, A_12_A, U_182_A, C_183_A, A_184_A	0.79842	0
+target_pocket_6_21	G_67_A, C_68_A, U_69_A, G_70_A, A_99_A, G_100_A, C_101_A, G_102_A	0.86897	0

@@ -1,0 +1,3 @@
+Pocket ID	Pocket residues	DRLiPS Druggability score	Class
+target_pocket_1_21	C_24_A, U_25_A, U_26_A, G_27_A, A_31_A, U_32_A, G_33_A, A_34_A, U_35_A, G_36_A, U_37_A, RC3_42_A	0.85946	0
+target_pocket_0_21	C_8_A, G_9_A, C_10_A, G_11_A, C_12_A	0.55862	0
